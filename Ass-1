@@ -1,0 +1,7 @@
+p=int(input('employee amount:'))
+t=int(input('time period:'))
+r=float(input('rate of interest:'))
+si=(p*t*r)/1001200
+print('simple interest:',si)
+EMI=(si+p)/t*12
+print('EMI is',EMI)
