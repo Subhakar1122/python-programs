@@ -1,0 +1,6 @@
+x=int(input("Enter your pin :"))
+ a=int(input("Enter your amount :"))
+balance=1000
+print(a, 'is credited amount')
+c=a+balance
+ print(c, 'is Main balance')
