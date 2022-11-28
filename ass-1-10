@@ -1,0 +1,11 @@
+a=int(input("Enter your pin :"))
+
+b=6746
+
+print("Continue the transactions")
+
+if(a!=b):
+
+if(a==b):
+
+print("Incorrect Pin, Please try again")
