@@ -1,0 +1,7 @@
+a=int(input("Enter your number :"))
+checker=100
+if(a<checker):
+print("Number is less than 100")
+if(a>checker):
+print("Number is greater than 100")
+if(a==checker): print("Number is equal to 100")
